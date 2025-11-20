@@ -133,3 +133,8 @@ El sistema basado en **grafos** ofrece mayor flexibilidad y eficiencia para repr
 
 
 Gracias a estas capacidades, la versión final del sistema logra una representación más fiel y útil para escenarios reales de logística y distribución.
+
+---
+
+## Link de la presentación en diapositivas
+https://www.canva.com/design/DAG5GrWNdlU/A0Lr7AQSHdY6ZCnVrky6bA/edit?utm_content=DAG5GrWNdlU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
